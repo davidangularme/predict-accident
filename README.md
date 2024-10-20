@@ -1,4 +1,4 @@
-Overview
+Overview (You dont have autorization to use this code or/and idea without my permission)
 The goal is to develop an algorithm that assesses real-time driver behavior to predict the likelihood of an imminent accident. By combining physiological data (driver health monitoring) with vehicle operation data (vehicle monitoring), and employing advanced AI-based methods, we can create a comprehensive system that detects abnormal behaviors and potential risks.
 Combined Concepts from the Documents
 AI-Driven Driver Behavior Assessment Through Vehicle and Health Monitoring for Safe Driving—A Survey:
